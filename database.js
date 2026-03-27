@@ -12,4 +12,4 @@
 // Create a connection from code
 // Documents CRUD - CReate, REad, Update, Delete
 
-const URI  = "mongodb+srv://syedaliya03_db_user:1135518Aa@nodelevelone.iwr3d25.mongodb.net/"
+const URI  = "mongodb+srv://syedaliya03_db_user:<PASSWORD>@nodelevelone.iwr3d25.mongodb.net/"
